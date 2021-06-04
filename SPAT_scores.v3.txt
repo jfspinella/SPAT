@@ -1,0 +1,137 @@
+#ANNOTATIONS	TERMS	CLASS
+extracellular	CVTO_0002	S1
+external side of plasma membrane	GO:0009897	S2
+cell surface	GO:0009986	S2
+extrinsic component of external side of plasma membrane	GO:0031232	S2
+intrinsic component of external side of plasma membrane	GO:0031233	S2
+anchored to external side of plasma membrane	GO:0031362	S2
+integral component of external side of plasma membrane	GO:0071575	S2
+cell surface	SL-0310	S2
+anchored component of membrane	GO:0031225	S2
+extracellular region	GO:0005576	S3
+proteinaceous extracellular matrix	GO:0005578	S3
+extracellular space	GO:0005615	S3
+plasma membrane	GO:0005886	S3
+integral component of plasma membrane	GO:0005887	S3
+cell-cell adherens junction	GO:0005913	S3
+basal plasma membrane	GO:0009925	S3
+basolateral plasma membrane	GO:0016323	S3
+apical plasma membrane	GO:0016324	S3
+apicolateral plasma membrane	GO:0016327	S3
+lateral plasma membrane	GO:0016328	S3
+extrinsic component of plasma membrane	GO:0019897	S3
+extracellular matrix	GO:0031012	S3
+intrinsic component of plasma membrane	GO:0031226	S3
+extracellular organelle	GO:0043230	S3
+extracellular matrix	GO:0044420	S3
+extracellular region part	GO:0044421	S3
+plasma membrane part	GO:0044459	S3
+anchored component of plasma membrane	GO:0046658	S3
+plasma membrane protein complex	GO:0098797	S3
+plasma membrane signaling receptor complex	GO:0098802	S3
+extracellular vesicle	GO:1903561	S3
+apical cell membrane	SL-0015	S3
+apicolateral cell membrane	SL-0017	S3
+basal cell membrane	SL-0024	S3
+basolateral cell membrane	SL-0026	S3
+extracellular matrix	SL-0111	S3
+extracellular space	SL-0112	S3
+lateral cell membrane	SL-0153	S3
+membrane 	GO:0016020	S4
+integral component of membrane	GO:0016021	S4
+podosome	GO:0002102	S4
+focal adhesion	GO:0005925	S4
+extrinsic component of membrane	GO:0019898	S4
+intrinsic component of membrane	GO:0031224	S4
+cell projection	GO:0042995	S4
+membrane part	GO:0044425	S4
+plasma membrane raft	GO:0044853	S4
+membrane raft	GO:0045121	S4
+plasma membrane region	GO:0098590	S4
+adherens junction	SL-0009	S4
+caveola	SL-0035	S4
+cell junction	SL-0038	S4
+cell membrane	SL-0039	S4
+desmosome	SL-0092	S4
+focal adhesion	SL-0118	S4
+gap junction	SL-0124	S4
+hemidesmosome	SL-0137	S4
+invadopodium	SL-0148	S4
+tight junction	SL-0265	S4
+filopodium	SL-0286	S4
+filopodium membrane	SL-0287	S4
+invadopodium membrane	SL-0290	S4
+lamellipodium	SL-0291	S4
+lamellipodium membrane	SL-0292	S4
+podosome	SL-0295	S4
+podosome membrane	SL-0296	S4
+pseudopodium	SL-0298	S4
+pseudopodium membrane	SL-0299	S4
+membrane raft	SL-0370	S4
+cell cortex	SL-0138	S5
+membrane	SL-0162	S5
+recycling endosome membrane	SL-0231	S5
+recycling endosome	SL-0232	S5
+secretory vesicle	SL-0244	S5
+secretory vesicle membrane	SL-0245	S5
+endosome	SL-0101	S5
+late endosome	SL-0152	S5
+lysosome	SL-0158	S5
+cell cortex	GO:0005938	S5
+intragranular	CVTO_0005	RF
+lumenal	CVTO_0007	RF
+lumenal, melanosome	CVTO_0008	RF
+lumenal, vesicle	CVTO_0010	RF
+mitochondrial intermembrane	CVTO_0011	RF
+mitochondrial matrix	CVTO_0013	RF
+nuclear	CVTO_0015	RF
+perinuclear space	CVTO_0016	RF
+peroxisomal	CVTO_0018	RF
+peroxisomal matrix	CVTO_0019	RF
+vacuolar	CVTO_0023	RF
+vesicular	CVTO_0024	RF
+cytoplasm	SL-0086	RF
+cytoskeleton	SL-0090	RF
+endoplasmic reticulum	SL-0095	RF
+endoplasmic reticulum membrane	SL-0097	RF
+endoplasmic reticulum-Golgi intermediate compartment membrane	SL-0099	RF
+golgi apparatus	SL-0132	RF
+golgi apparatus membrane	SL-0134	RF
+mitochondrion membrane	SL-0171	RF
+mitochondrion	SL-0173	RF
+multivesicular body	SL-0174	RF
+multivesicular body membrane	SL-0175	RF
+nucleus membrane	SL-0182	RF
+nucleolus	SL-0188	RF
+nucleoplasm	SL-0190	RF
+nucleus	SL-0191	RF
+perinuclear region	SL-0198	RF
+peroxisome membrane	SL-0203	RF
+peroxisome	SL-0204	RF
+phagosome membrane	SL-0205	RF
+phagosome	SL-0206	RF
+rough endoplasmic reticulum	SL-0235	RF
+rough endoplasmic reticulum membrane	SL-0237	RF
+smooth endoplasmic reticulum	SL-0248	RF
+smooth endoplasmic reticulum membrane	SL-0250	RF
+trans-golgi network	SL-0266	RF
+trans-golgi network membrane	SL-0267	RF
+nuclear body	SL-0494	RF
+extracellular matrix	SL-0111	SF
+extracellular space	SL-0112	SF
+secreted	SL-0243	SF
+extracellular exosome	SL-0466	SF
+extracellular vesicle	SL-0499	SF
+extracellular vesicle membrane	SL-0500	SF
+extracellular region	GO:0005576	SF
+extracellular matrix	GO:0005578	SF
+extracellular space	GO:0005615	SF
+extracellular matrix	GO:0031012	SF
+extracellular matrix part	GO:0044420	SF
+extracellular region part	GO:0044421	SF
+extracellular core region of desmosome	GO:0090635	SF
+extracellular vesicle	GO:1903561	SF
+extracellular exosome complex	GO:1990563	SF
+extracellular exosome	GO:0070062	SF
+secreted	SL-0243	SF
+extracellular exosome	SL-0466	SF
